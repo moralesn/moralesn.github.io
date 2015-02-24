@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:Norberto Morales            Hyde
-tagline:          ''
+tagline:          'A Jekyll theme'
 description:      'Quantitative researcher with experience in statistical modeling and data analytics.'
 url:              http://www.norbertormorales.com
 baseurl:          /
