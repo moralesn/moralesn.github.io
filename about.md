@@ -7,8 +7,8 @@ title: About
  
 Learn more and contribute on [GitHub](https://github.com/moralesn).
 
-## Find me 
+## Find Elsewhere 
 
-[LinkedIn](https://www.linkedin.com/in/norbertomorales).
+[LinkedIn](https://www.linkedin.com/in/norbertomorales)
 
- Thanks for reading!
+ 
