@@ -8,7 +8,7 @@ The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md
 and modeling at the graduate level. They cover best data management, data manipulation, visualization, and statistical modeling practices. 
 The following are some of the brief examples of workshops I have taught included under the download section:
 
-##Stata Workshops 
+##Example Workshops 
 
 *Normal Distributions
 
