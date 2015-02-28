@@ -9,8 +9,6 @@ Hello, I'm Norberto Morales and I help deliver meaningful insights from data cau
 
 When I'm not discovering things with data, you can find me       . Reach out to me if you are interested in learning more about a project or working with me.
 
-## Elsewhere
-
 ## About the site
 
 This site is:
