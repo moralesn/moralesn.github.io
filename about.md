@@ -5,11 +5,11 @@ title: About
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on the ocean of information. 
 
-When I'm not discovering things with data, you can find me       . [Reach out](http://www.norbertormorales.com/contact/) to me if you are interested in learning more about a project or working with me.
+When I'm not discovering things with data, you can find me       .[Reach out](http://www.norbertormorales.com/contact/) to me if you are interested in learning more about a project or working with me.
 
 ## About the site
 
-norbertormorales.com is:
+This site is:
 
 Designed as a customized version of the [Poole](https://github.com/poole/poole) theme
 
