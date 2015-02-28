@@ -1,6 +1,1 @@
----
-layout: pagetitle: Notes ---
-
- {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
+---layout: pagetitle: --- {% for post in site.posts %}  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{post.url }}){% endfor %}
