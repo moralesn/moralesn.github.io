@@ -1,10 +1,14 @@
----
+﻿---
 layout: post
 title: Stata Workshops
 ---
 
-[Stata](http://www.stata.com/) is a statistical software widely used in academia and for relatively smaller scale projects throughout the corporate community. The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md) sessions stemmed from my experience teaching statistical analysis and modeling at the graduate level. They cover best data management, data manipulation, visualization, and statistical modeling practices in Stata syntax. 
-The following are brief examples of workshops I have taught included under the download section:
+Statistical analysis can involve some start-up costs on the way to learning best practices and more advanced techniques. [Stata](http://www.stata.com/) is a statistical
+can be useful to this end, facilitating statistical analysis in a user friendly interface and without the need for extensive programming experience.
+Widely used in academia and across some industry, the capabilities of the software are tailored for relatively smaller scale projects. The 
+[following](https://github.com/moralesn/stata_workshopsblob/master/README.md) sessions stemmed from my experience teaching statistical analysis
+and modeling at the graduate level. They demonstrate some best data management, data manipulation, visualization, and statistical modeling practices  
+in the context of Stata syntax. The following are descriptive names of workshops I have taught and have included under the download section:
 
 ##Example Workshops 
 
