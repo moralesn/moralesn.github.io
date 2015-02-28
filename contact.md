@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 description: Contact information for Norberto R. Morales.
+contact: active
 ---
 <div class="contact">
 
