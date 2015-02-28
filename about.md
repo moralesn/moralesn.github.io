@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description:
 ---
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on the ocean of information. 
