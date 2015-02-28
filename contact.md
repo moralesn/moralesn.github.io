@@ -12,7 +12,7 @@ description:
 	<ul class="list-unstyled">
 	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
 	<li><a href="http://github.com/moralesn">@GitHub</a></li>
-	<li>Or by sending an e-mail to <span class="obfuscate">nmorales@tamu.edu</span></li>
+	<li>Or by sending an e-mail to nmorales@tamu.edu</li>
 	</ul>
 
 </div>
