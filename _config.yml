@@ -9,7 +9,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            NORBERTO <html><b>MORALES</b></html>
+title:            Norberto Morales 
 tagline:           'Quantitative researcher with experience in statistical modeling and data analytics.'
 url:              http://www.norbertormorales.com
 shorturl:         norbertormorales.com
@@ -29,7 +29,7 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:       
   About: '/about/'
-  Archive: '/archive/'
+  Notes: '/notes/'
   Contact: '/contact/'
 
 # Allow URL Redirects: 
