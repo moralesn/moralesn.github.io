@@ -1,10 +1,11 @@
 ---
 layout: default
 title: 
-notes: active
 description: 
 ---
 
 
-     			{% include post-list.html %}
+     		{{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{post.url }})
+
+
 	
