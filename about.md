@@ -21,7 +21,7 @@ Designed and coded on a PC Windows 8 platform
 
 Coded with Sublime Text
 
-Using typefaces [Merriweather](http://www.google.com/fonts/specimen/Merriweather) by [Eben Sorkin](https://ebensorkin.wordpress.com/) and Montserrat](http://www.google.com/fonts/specimen/Montserrat) by [Julieta Ulanovsky](http://www.zkysky.com.ar/)
+Using typefaces [Merriweather](http://www.google.com/fonts/specimen/Merriweather) by [Eben Sorkin](https://ebensorkin.wordpress.com/) and [Montserrat](http://www.google.com/fonts/specimen/Montserrat) by [Julieta Ulanovsky](http://www.zkysky.com.ar/)
 
 Powered by [Jekyll](http://jekyllrb.com/), the open source static site generator
 
