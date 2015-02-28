@@ -1,5 +1,5 @@
 ---
-layout: 
-pagetitle: Notes
+layout: default 
+pagetitle: 
 --- 
 {% for post in site.posts %}  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{post.url }}){% endfor %}
