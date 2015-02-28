@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Contact
-notes: passive
 contact: active
 description: 
 ---
