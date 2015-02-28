@@ -9,8 +9,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Norberto<b>Morales
-</b>tagline:           'Quantitative researcher with experience in statistical modeling and data analytics.'
+title:            <p>Norberto<b>Morales
+</b></p>tagline:           'Quantitative researcher with experience in statistical modeling and data analytics.'
 url:              http://www.norbertormorales.com
 shorturl:         norbertormorales.com
 
