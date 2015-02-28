@@ -9,7 +9,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'Norberto<b>Morales</b>
+title:            'NORBERTO <b>MORALES</b>
 'tagline:           'Quantitative researcher with experience in statistical modeling and data analytics.'
 url:              http://www.norbertormorales.com
 shorturl:         norbertormorales.com
@@ -30,7 +30,7 @@ github:
 pages_list:       
   About: '/about/'
   Archive: '/archive/'
-  Feed: '/atom.xml'
+  Contact: '/contact/'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
