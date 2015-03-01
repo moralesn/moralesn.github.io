@@ -12,11 +12,9 @@ to teaching others new skills and sharing interesting information. When I'm not 
 
 	<p>You can get in touch with me:</p>
 	
-	<ul class="list-unstyled">
-	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
-	<li><a href="http://github.com/moralesn">@GitHub</a></li>
-	<li>Or by sending an e-mail to nmorales@tamu.edu</li>
-	</ul>
+	<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="1337"></script>
+	<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
 
 </div>
 
