@@ -12,8 +12,6 @@ to teaching others new skills and sharing interesting information. When I'm not 
 
 	<p>You can get in touch with me:</p>
 	
-	<iframe src="//platform.linkedin.com/in.js?data-id=https://www.linkedin.com/in/norbertomorales" type="text/javascript"> lang: en_US</script>
-
 	<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
 
 </div>
