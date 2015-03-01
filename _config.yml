@@ -28,8 +28,8 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  Notes: '/notes/'
- About: '/about/'
+  About: '/about/'
+ Notes: '/notes/'
   # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
