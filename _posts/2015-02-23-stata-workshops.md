@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: Stata Workshops
 comments: true 
-redirect_from: "/2015/02/23/jekyll-github-pages-poole/"
-permalink: jekyll-github-pages-poole
+redirect_from: "/2015/02/23/stata-workshops/"
+permalink: stata-workshops
 ---
 
 Statistical analysis can involve some start-up costs on the way to learning best practices and more advanced techniques. [Stata](http://www.stata.com/) is a statistical can be useful to this end, facilitating statistical analysis in a user friendly interface and without the need for extensive programming experience.
