@@ -1,13 +1,22 @@
 ---
 layout: page
 title: About
-description:
+description: About Norberto Morales
 ---
 
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. 
 
-When I'm not discovering things with data, you can find me       . Reach out to me if you are interested in learning more about a project or working with me.
+When I'm not discovering things with data, you can find me . 
+
+	<p>You can reach me:</p>
+	
+	<ul class="list-unstyled">
+	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
+	<li><a href="http://github.com/moralesn">@GitHub</a></li>
+	<li>Or by sending an e-mail to nmorales@tamu.edu</li>
+	</ul>
+
 
 ## About the site
 
