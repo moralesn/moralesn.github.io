@@ -5,9 +5,8 @@ description: About Norberto Morales
 ---
 
 
-Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. 
-
-When I'm not discovering things with data, you can find me . 
+Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I employ this site as a way
+to teaching others new skills and sharing interesting information. When I'm not discovering things with data, you can find me . 
 
 <div class="contact">
 
