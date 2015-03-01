@@ -30,7 +30,7 @@ github:
 pages_list:       
   About: '/about/'
   Notes: '/notes/'
-  Contact: '/contact/'
+ 
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
