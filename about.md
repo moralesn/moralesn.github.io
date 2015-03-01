@@ -9,7 +9,9 @@ Hello, I'm Norberto Morales and I help deliver meaningful insights from data cau
 
 When I'm not discovering things with data, you can find me . 
 
-	<p>You can reach me:</p>
+<div class="contact">
+
+	<p>You can get in touch with me:</p>
 	
 	<ul class="list-unstyled">
 	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
@@ -17,6 +19,7 @@ When I'm not discovering things with data, you can find me .
 	<li>Or by sending an e-mail to nmorales@tamu.edu</li>
 	</ul>
 
+</div>
 
 ## About the site
 
