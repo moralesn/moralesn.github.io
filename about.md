@@ -12,6 +12,11 @@ to teaching others new skills and sharing interesting information. When I'm not 
 
 	<p>You can get in touch with me:</p>
 	
+	<ul class="list-unstyled">
+	
+	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
+	
+	
 	<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
-
+</ul>
 </div>
