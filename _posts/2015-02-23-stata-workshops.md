@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Stata Workshops
 comments: true 
@@ -32,7 +32,6 @@ Beyond being a useful tool—especially when comfronting less computationally de
 
 ##Download
 
-You will need to download and run the relevant .do files for each session of the workshop. Find out more
-by visiting the project page on [GitHub](https://github.com/moralesn/stata_workshops).
+You will need an up-to-date copy of Stata 12 or Stata 13. To download and run the relevant .do files for each session of the workshop you can visit the [project page](https://github.com/moralesn/stata_workshops).
 
 {% include socialmedia_plug.html %}
