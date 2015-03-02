@@ -4,7 +4,8 @@ title: About
 description: About Norberto Morales
 ---
 
-![](/assets/me.jpg=100x20)
+<img src="/assets/me.jpg" style="width: 200px;"/>
+
 
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I employ this site as a way
