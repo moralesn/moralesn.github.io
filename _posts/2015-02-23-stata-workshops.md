@@ -6,9 +6,9 @@ redirect_from: "/2015/02/23/stata-workshops/"
 permalink: stata-workshops
 ---
 
-Statistical analysis can involve some start-up costs on the way to learning best practices and more advanced techniques. [Stata](http://www.stata.com/) is a statistical can be useful to this end, facilitating statistical analysis in a user friendly interface and without the need for extensive programming experience.
+Statistical analysis can involve relatively large start-up costs on the way to learning best practices and more advanced techniques. [Stata](http://www.stata.com/) can be useful to this end, facilitating statistical analysis in a user friendly interface and without the need for extensive programming experience.
 
-The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md) sessions stemmed from my experience teaching statistical analysis and modeling at the graduate level. They demonstrate some best data management, data manipulation, visualization, and statistical modeling practices in the context of Stata syntax. To learn more, refer to names of workshops I have taught and included under the download section:
+The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md) sessions stemmed from my experience teaching statistical analysis and modeling at the graduate level. They demonstrate some best data management, visualization, and statistical modeling practices in the context of Stata syntax. To learn more, refer to names of workshops I have taught in the recent past:
 
 ##Example Workshops 
 
@@ -32,6 +32,6 @@ Beyond being a useful tool—especially when comfronting less computationally de
 
 ##Download
 
-You will need an up-to-date copy of Stata 12 or Stata 13. To download and run the relevant .do files for each lab session you can visit the [project page](https://github.com/moralesn/stata_workshops).
+To download the relevant .do files for each lab session you can visit the [project page](https://github.com/moralesn/stata_workshops). You will need an up-to-date copy of Stata 12 or Stata 13 to run the code files.
 
 {% include socialmedia_plug.html %}
