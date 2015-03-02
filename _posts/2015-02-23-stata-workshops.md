@@ -12,21 +12,14 @@ The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md
 
 ##Example Workshops 
 
-*Normal Distributions
-
-*Sample Selection
-
-*Heteroskedasticity and Multicollinearity 
-
-*Outliers
-
-*Linear Regression
-
-*Interactions
-
-*Logit and Probit
-
-*Loops
+* Normal Distributions
+* Sample Selection
+* Heteroskedasticity and Multicollinearity 
+* Outliers
+* Linear Regression
+* Interactions
+* Logit and Probit
+* Loops
 
 These sessions can allow users to maximize their impact in their respective fields. While Stata can be a useful tool—specifically for less computationally demanding projects— skills in tools such as R, SQL, and SAS are highly prized for more advanced tasks.
 
