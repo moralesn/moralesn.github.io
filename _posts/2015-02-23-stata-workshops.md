@@ -28,7 +28,7 @@ The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md
 
 *Loops
 
-These Stata sessions can allow users to maximize their impact in their respective field. While Stata can be a useful tool—especially in less computationally demanding projects— skills in tools such as R, SQL, and SAS are highly prized for more advanced tasks.
+These sessions can allow users to maximize their impact in their respective fields. While Stata can be a useful tool—especially in less computationally demanding projects— skills in tools such as R, SQL, and SAS are highly prized for more advanced tasks.
 
 ##Download
 
