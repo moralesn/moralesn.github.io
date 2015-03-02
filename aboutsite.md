@@ -4,21 +4,26 @@ title: About Site
 description: About Site
 ---
 
+<b>About the site</b>
 
-## About the site
+<p>This site is:</p>
 
-This site is:
+<ul class="list-unstyled">
 
-Code licensed under MIT and documentation under a[CC BY 3.0.](http://creativecommons.org/licenses/by/3.0/deed.en_US)licence.
+   
+<li>Code licensed under MIT and documentation under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC BY 3.0. license</a>.</li>
 
-Built as a customized version of the [Poole](https://github.com/poole/poole) theme
+<li>Built as a customized version of the <a href="https://github.com/poole/poole> Poole </a> theme </li>
 
-Uses typefaces [Merriweather](http://www.google.com/fonts/specimen/Merriweather) by [Eben Sorkin](https://ebensorkin.wordpress.com/) and [Montserrat](http://www.google.com/fonts/specimen/Montserrat) by [Julieta Ulanovsky](http://www.zkysky.com.ar/)
+<li>Uses typefaces <a href="http://www.google.com/fonts/specimen/Merriweather">Merriweather</a> by <a href= "https://ebensorkin.wordpress.com/">Eben Sorkin</a> and <a href="http://www.google.com/fonts/specimen/Montserrat"> Montserrat </a> by <a href="http://www.zkysky.com.ar/"> Julieta Ulanovsky </a> . </li>
 
-Content edited in Sublime Text
+<li>Content edited in Sublime Text </li>
 
-Powered by [Jekyll](http://jekyllrb.com/), the open source static site generator
+<li>Powered by <a href="http://jekyllrb.com/"> Jekyll </a>, the open source static site generator</li>
 
-Hosted on [GitHub](https://github.com/moralesn/moralesn.github.io) via [GitHub Pages](https://pages.github.com/)
+<li>Hosted on <a href="https://github.com/moralesn/moralesn.github.io"> GitHub </a> via <a href="https://pages.github.com/"> GitHub Pages</a></li>
+
+</ul> 
+ </div>
 
  
