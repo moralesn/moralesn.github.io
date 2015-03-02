@@ -1,10 +1,8 @@
-﻿---
+---
 layout: post
 title: Stata Workshops
 comments: true 
-
 redirect_from: "/2015/02/23/stata-workshops/"
-
 permalink: stata-workshops
 ---
 
