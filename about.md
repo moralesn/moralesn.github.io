@@ -4,7 +4,7 @@ title: About
 description: About Norberto Morales
 ---
 
-![Alt text](https://www.norbertormorales.com/_images/me.jpg)
+![Alt text](https://github.com/moralesn/moralesn.github.io/tree/master/_images/me.jpg)
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I employ this site as a way
 to teaching others new skills and sharing interesting information. When I'm not discovering things with data, you can find me . 
