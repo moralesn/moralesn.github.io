@@ -21,7 +21,7 @@ description: About this site
 
 <li> Content edited in Sublime Text </li>
 
-<li> Powered by <a href="http://jekyllrb.com/"> Jekyll </a>, the open source static site generator</li>
+<li> Powered by <a href="http://jekyllrb.com/">Jekyll</a>, the open source static site generator</li>
 
 <li> Hosted on <a href="https://github.com/moralesn/moralesn.github.io"> GitHub </a> via <a href="https://pages.github.com/"> GitHub Pages</a></li>
 
