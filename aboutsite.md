@@ -13,7 +13,7 @@ description: About this site
 <ul class="list-unstyled">
 
    
-<li> Licensed under a MIT license for code and under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC BY 3.0. license for documentation</a></li>
+<li> Licensed under a MIT license for code and under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC BY 3.0.</a> license for documentation</li>
 
 <li> Built as a customized version of the <a href="http://getpoole.com/"> Poole </a> theme </li>
 
