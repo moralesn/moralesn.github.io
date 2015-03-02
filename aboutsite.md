@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About this Site
-aboutsite: False
+title: 
 description: About this site
 ---
 
