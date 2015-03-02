@@ -4,7 +4,7 @@ title: About
 description: About Norberto Morales
 ---
 
-![drawing](/assets/me.jpg=100x20)
+![](/assets/me.jpg=100x20)
 
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I employ this site as a way
