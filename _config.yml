@@ -1,36 +1,36 @@
--# Dependencies
--markdown:         redcarpet
--redcarpet:
--  extensions: ["tables"]
--
--pygments:         true
--
--# Permalinks
--permalink:        pretty
--
--# Setup
--title:            Norberto Morales
--tagline:          'Data Science, Statistical Analyst'
--url:              http://www.norbertormorales.com
--shorturl:         norbertormorales.com
--
--author:
--  name:           'Norberto R. Morales'
--  url:            
--
--paginate:         1
--
--# Custom vars
--version:          1.0.0
--
--github:
--  repo:           github.com/moralesn/moralesn.github.io
--
--# This is the list of pages to include in the header of the website.
--pages_list:       
--  About: '/about/'
--  Notes: '/notes/'
--  # Allow URL Redirects: 
--#  * https://help.github.com/articles/redirects-on-github-pages
--gems:
--  - jekyll-redirect-from
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Norberto Morales
+tagline:          'Data Science, Statistical Analyst'
+url:              http://www.norbertormorales.com
+shorturl:         norbertormorales.com
+
+author:
+  name:           'Norberto R. Morales'
+  url:            
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+repo:           github.com/moralesn/moralesn.github.io
+  
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Notes: '/notes/'
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
