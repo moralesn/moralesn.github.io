@@ -37,3 +37,5 @@ Beyond being a useful tool—especially when comfronting less computationally de
 You will need an up-to-date copy of Stata 12 or Stata 13. To download and run the relevant .do files for each session of the workshop you can visit the [project page](https://github.com/moralesn/stata_workshops).
 
 {% include socialmedia_plug.html %}
+
+{% include comments.html %}
