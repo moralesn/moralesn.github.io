@@ -4,8 +4,9 @@ title: About
 description: About Norberto Morales
 ---
 
+<p>
 <img src="/assets/me.jpg" style="width: 440px;" align="right"/>
-
+</p>
 
 
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I employ this site as a way
