@@ -5,7 +5,7 @@ description: About Norberto Morales
 ---
 
 <p>
-<img src="/assets/me.jpg" style="width: 440px;" align="right"/>
+<img src="/assets/me.jpg" style="width: 440px;" align="middle"/>
 </p>
 
 
