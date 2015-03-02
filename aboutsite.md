@@ -14,9 +14,9 @@ description: About this site
 <ul class="list-unstyled">
 
    
-<li> Code licensed under MIT and documentation under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC BY 3.0. license</a>.</li>
+<li> Code licensed under a MIT and documentation under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">CC BY 3.0. license</a>.</li>
 
-<li> Built as a customized version of the <a href="https://github.com/poole/poole"> Poole </a> theme </li>
+<li> Built as a customized version of the <a href="http://getpoole.com/"> Poole </a> theme </li>
 
 <li> Uses typefaces <a href="http://www.google.com/fonts/specimen/Merriweather">Merriweather</a> by <a href= "https://ebensorkin.wordpress.com/">Eben Sorkin</a> and <a href="http://www.google.com/fonts/specimen/Montserrat"> Montserrat </a> by <a href="http://www.zkysky.com.ar/"> Julieta Ulanovsky </a> . </li>
 
