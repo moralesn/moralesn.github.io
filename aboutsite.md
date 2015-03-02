@@ -17,7 +17,7 @@ description: About this site
 
 <li> Built as a customized version of the <a href="http://getpoole.com/"> Poole </a> theme </li>
 
-<li> Written in typefaces <a href="http://www.google.com/fonts/specimen/Merriweather">Merriweather</a> by <a href= "https://ebensorkin.wordpress.com/">Eben Sorkin</a> and <a href="http://www.google.com/fonts/specimen/Montserrat"> Montserrat </a> by <a href="http://www.zkysky.com.ar/"> Julieta Ulanovsky </a></li>
+<li> Using typefaces <a href="http://www.google.com/fonts/specimen/Merriweather">Merriweather</a> by <a href= "https://ebensorkin.wordpress.com/">Eben Sorkin</a> and <a href="http://www.google.com/fonts/specimen/Montserrat"> Montserrat </a> by <a href="http://www.zkysky.com.ar/"> Julieta Ulanovsky </a></li>
 
 <li> Content edited in Sublime Text </li>
 
