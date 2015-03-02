@@ -1,8 +1,12 @@
 ---
 layout: page
 title: About Site
+aboutsite: False
 description: About Site
 ---
+
+<div class="aboutsite">
+ 
 
 <b>About the site</b>
 
@@ -26,4 +30,5 @@ description: About Site
 </ul> 
  </div>
 
+ 
  
