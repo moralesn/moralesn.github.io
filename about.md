@@ -18,7 +18,7 @@ of teaching others new skills and sharing interesting information. When I'm not 
 
 <p>
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="click" data-related="false" data-text="Follow Norberto Morales"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="click" data-related="false" width: 40px data-text="Follow Norberto Morales"></script>
 </p>
 
 <p>
