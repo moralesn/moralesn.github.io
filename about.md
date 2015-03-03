@@ -15,16 +15,17 @@ of teaching others new skills and sharing interesting information. When I'm not 
 <div class="contact">
 
 	<p>You can get in touch with me:</p>
+
+<ul class="list-unstyled">
 	
+<li>
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="hover" data-related="false"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="click" data-related="false" data-text="Norberto%20R.%20Morales"></script>
+@LinkedIn
+</li>
 
-	<ul class="list-unstyled">
-	
-	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
-	
-	</ul>
-
-	<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
-
-</div>
+<li>
+<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
+@GitHub
+</li>
+</ul></div>
