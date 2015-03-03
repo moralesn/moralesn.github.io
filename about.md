@@ -8,8 +8,7 @@ description: About Norberto Morales
 <img src="/assets/me.jpg" style="width: 440px;" align="middle"/>
 </p>
 
-
-Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I want to use this site to help 
+Hello, I'm Norberto Morales and enjoy uncovering meaningful insights using data in an ocean of information. I want to use this site to help 
 people learn new skills and share what they learn with others. 
 
 I received a masters in Political Science from Texas A&M University researching, amongst other things, the economic costs of conflict. I have written about 
@@ -27,8 +26,6 @@ If you like my website, you can follow me at:
 </a>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
-
-
 
 </p>
 </div>
