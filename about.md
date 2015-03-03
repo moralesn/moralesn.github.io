@@ -9,13 +9,16 @@ description: About Norberto Morales
 </p>
 
 
-Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I employ this site as a way
-to teaching others new skills and sharing interesting information. When I'm not discovering things with data, you can find me . 
+Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I designed this site as a way
+of teaching others new skills and sharing interesting information. When I'm not discovering things with data, you can find me . 
 
 <div class="contact">
 
 	<p>You can get in touch with me:</p>
 	
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="hover" data-related="false"></script>
+
 	<ul class="list-unstyled">
 	
 	<li><a href="http://www.linkedin.com/in/norbertomorales/">@LinkedIn</a></li> 
