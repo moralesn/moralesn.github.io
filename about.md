@@ -12,7 +12,7 @@ description: About Norberto Morales
 Hello, I'm Norberto Morales and I help deliver meaningful insights from data caught on an ocean of information. I designed this site as a way
 of teaching others new skills and sharing interesting information. When I'm not discovering things with data, you can find me . 
 
-<div class="contact" width: 100px>
+<div class="contact">
 
 	<p>You can get in touch with me:</p>
 
