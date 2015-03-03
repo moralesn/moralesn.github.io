@@ -18,10 +18,10 @@ of teaching others new skills and sharing interesting information. When I'm not 
 
 <p>
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="click" data-related="false" width: 40px data-text="Follow Norberto Morales"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="hover" data-related="false"></script>
 </p>
 
 <p>
-<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" align="right" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
 </p>
 </div>
