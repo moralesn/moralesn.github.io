@@ -13,11 +13,9 @@ Hello, I'm Norberto Morales and I help deliver meaningful insights from data cau
 people learn new skills and share what they learn with others. 
 
 I received a masters in Political Science from Texas A&M University researching, amongst other things, the economic costs of conflict. I have written about 
-my research [here]() and teaching in statistics [here](http://www.norbertormorales.com/stata-workshops/). Prior to my graduate work, I was an Economics undergraduate at Florida State
+my research [here]() and resources for teaching in statistics [here](http://www.norbertormorales.com/stata-workshops/). Prior to my graduate work, I was an Economics undergraduate at Florida State
 University researching the political factors shaping the value of currencies around the world. When I'm not discovering things with data, you can
 find me in hiking trails, kayaking, and learning about technology. 
-
-<div class="contact">
 
 If you like my website, you can follow me at:
 
