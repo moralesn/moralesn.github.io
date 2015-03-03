@@ -17,10 +17,11 @@ of teaching others new skills and sharing interesting information. When I'm not 
 	<p>You can get in touch with me:</p>
 
 <div class="contact">
-<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" >@GitHub</iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" data-text="@LinkedIn" style="border:none; overflow:hidden;" allowTransparency="true" >@GitHub</iframe>
 </div>
 
+<div class="contact">
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="hover" data-related="false">@LinkedIn</script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="hover" data-text="@LinkedIn" data-related="false"></script>
 </div>
 
