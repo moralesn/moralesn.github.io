@@ -20,7 +20,7 @@ of teaching others new skills and sharing interesting information. When I'm not 
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/norbertomorales" data-format="hover" data-related="false"></script>
 </div>
 
-<div class="contact">
+<div class="contact" align="right">
 <iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" ></iframe>
 
 </div>
