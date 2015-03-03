@@ -8,13 +8,13 @@ description: About Norberto Morales
 <img src="/assets/me.jpg" style="width: 440px;" align="middle"/>
 </p>
 
-Hello, I'm Norberto Morales and enjoy uncovering meaningful insights using data in an ocean of information. I want to use this site to help 
+Hi, I'm Norberto Morales and I enjoy uncovering meaningful insights using data. I want to use this site to help 
 people learn new skills and share what they learn with others. 
 
-I received a masters in Political Science from Texas A&M University researching, amongst other things, the economic costs of conflict. I have written about 
-my research [here]() and resources for teaching in statistics [here](http://www.norbertormorales.com/stata-workshops/). Prior to my graduate work, I was an Economics undergraduate at Florida State
-University researching the political factors shaping the value of currencies around the world. When I'm not discovering things with data, you can
-find me in hiking trails, kayaking, and learning about technology. 
+I received a masters in Political Science from Texas A&M University while leading research on subjects as diverse as global finance and the economic costs of conflict. I have written about 
+my research [here]() and made various resources for teaching statistics [available](http://www.norbertormorales.com/stata-workshops/). Prior to my graduate work, I was an Economics undergraduate at Florida State
+University researching the various factors that shape the value of currencies throughout the world. When I'm not discovering things with data, you can
+find me hiking in trails, kayaking, and learning about technology. 
 
 If you like my website, you can follow me at:
 
