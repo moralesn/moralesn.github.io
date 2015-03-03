@@ -18,11 +18,9 @@ of teaching others new skills and sharing interesting information. When I'm not 
 
 <div class="contact">
 <iframe src="https://ghbtns.com/github-btn.html?user=moralesn&type=follow&count=true" frameborder="0" scrolling="0" style="border:none; overflow:hidden;" allowTransparency="true" >@GitHub</iframe>
-</div>
 
-<div class="contact">
 <a href="http://www.linkedin.com/in/norbertomorales">
-<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_120x33.png" width="120" height="33" border="0" alt="View Norberto R. Morales's profile on LinkedIn">
+<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_120x33.png" width="120" height="33" border="0" alt="Follow Norberto R. Morales on LinkedIn">
 </a>
 
 </div>
