@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Stata Workshops
 comments: True
@@ -8,7 +8,7 @@ permalink: stata-workshops
 
 Statistical analysis can involve relatively large start-up costs on the way to learning best practices and more advanced techniques. [Stata](http://www.stata.com/) can be useful to this end, facilitating statistical analysis in a user friendly interface and without the need for extensive programming experience. 
 
-The [following](https://github.com/moralesn/stata_workshopsblob/master/README.md) sessions stemmed from my experience teaching statistical analysis and modeling at the graduate level. They demonstrate some best data management, visualization, and statistical modeling practices in the context of Stata syntax. To learn more, refer to names of workshops I have taught in the recent past:
+The [following](https://github.com/moralesn/stata_workshops/blob/master/README.md) sessions stemmed from my experience teaching statistical analysis and modeling at the graduate level. They demonstrate some best data management, visualization, and statistical modeling practices in the context of Stata syntax. To learn more, refer to names of workshops I have taught in the recent past:
 
 ##Example Workshops 
 
