@@ -16,7 +16,7 @@ my research [here]() and various resources for teaching statistics [here](http:/
 University researching the factors that shape the value of currencies throughout the globe. When I'm not discovering things with data, you can
 find me hiking in trails, kayaking, and learning about technology. 
 
-#Elsewhere
+##Elsewhere
 
 <div class="contact">
 <p>
